@@ -1,0 +1,15 @@
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\bin\Debug\net6.0\009_WorkTask6.exe
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\bin\Debug\net6.0\009_WorkTask6.deps.json
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\bin\Debug\net6.0\009_WorkTask6.runtimeconfig.json
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\bin\Debug\net6.0\009_WorkTask6.dll
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\bin\Debug\net6.0\009_WorkTask6.pdb
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.csproj.AssemblyReference.cache
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.AssemblyInfoInputs.cache
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.AssemblyInfo.cs
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.csproj.CoreCompileInputs.cache
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.dll
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\refint\009_WorkTask6.dll
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.pdb
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\009_WorkTask6.genruntimeconfig.cache
+E:\Projects\009_HomeWorks\009_HomeWorks\009_WorkTask6\obj\Debug\net6.0\ref\009_WorkTask6.dll

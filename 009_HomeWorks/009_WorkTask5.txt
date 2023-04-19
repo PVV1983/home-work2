@@ -1,0 +1,9 @@
+Методи
+	одномірні
+		https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/arrays/single-dimensional-arrays
+	багатомірні
+		https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/arrays/multidimensional-arrays
+
+	
+
+
